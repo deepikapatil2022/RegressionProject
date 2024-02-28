@@ -3,3 +3,8 @@ Name: RegressorProject
 Version: 0.0.1
 Author: Deepika
 Author-email: deepikapatil2022@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn

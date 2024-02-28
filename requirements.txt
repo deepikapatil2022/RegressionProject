@@ -1,10 +1,6 @@
-pandas 
 numpy
-flask
-matplotlib
-ipykernel
-seaborn
-matplotlib
+pandas
+Flask
 scikit-learn
-
+seaborn
 -e .
